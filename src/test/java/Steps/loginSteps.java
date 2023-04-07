@@ -48,6 +48,7 @@ public class loginSteps extends CommonMethods {
     @Then("the user is not logged in")// different
     public void the_user_is_not_logged_in() {
         System.out.println("user did not logged in");
+        System.out.println("mustafa");
     }
 
 }
